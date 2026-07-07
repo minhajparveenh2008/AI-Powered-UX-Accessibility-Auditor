@@ -1,3 +1,64 @@
+# AI-Powered UX Heuristic Evaluation & Accessibility Auditor
+
+## About
+
+An AI-driven website auditing platform that analyzes UX heuristics, accessibility compliance, SEO quality, performance metrics, and functional issues. It provides AI-generated recommendations, business impact analysis, competitor benchmarking, internship contribution workflows, and exportable reports in PDF, Excel, and JSON formats.
+
+### Features
+- UX Heuristic Evaluation
+- Accessibility Auditing
+- SEO Score Analysis
+- Lighthouse Performance Metrics
+- Business Impact Score
+- Competitor Benchmarking
+- AI Recommendations
+- Internship & Contribution System
+- PDF/Excel/JSON Report Export
+
+### Tech Stack
+- React
+- TypeScript
+- Vite
+- Node.js
+- SQLite
+- Selenium
+- Lighthouse
+- Gemini AI
+
+## Architecture
+Frontend (React)
+↓
+Backend (Node.js/Express)
+↓
+Gemini AI Engine
+↓
+Lighthouse + Selenium + Axe-core
+↓
+Analytics Dashboard
+↓
+PDF / Excel Export
+
+## Installation
+
+git clone <repo-url>
+
+cd AI-Powered-UX-Accessibility-Auditor
+
+npm install
+
+npm run dev
+
+## Future Enhancements
+
+- Real Lighthouse API integration
+- Multi-page website crawling
+- CI/CD support
+- User authentication
+- Team collaboration
+- Historical audit tracking
+- AI trend prediction
+
+- 
 ### Recent Updates
 - Landing Page
 - User Authentication & Sign Up

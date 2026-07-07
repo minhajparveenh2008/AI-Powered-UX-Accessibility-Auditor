@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered UX & Accessibility Auditor",
+  "description": "Comprehensive UI/UX heuristic evaluation, Core Web Vitals metric estimator, WCAG accessibility compliance checker, and open-source contribution portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -27,16 +27,25 @@ An AI-driven website auditing platform that analyzes UX heuristics, accessibilit
 
 ## Architecture
 Frontend (React)
+
 ↓
 
 Backend (Node.js/Express)
+
 ↓
+
 Gemini AI Engine
+
 ↓
+
 Lighthouse + Selenium + Axe-core
+
 ↓
+
 Analytics Dashboard
+
 ↓
+
 PDF / Excel Export
 
 ## Installation
